@@ -27,7 +27,7 @@ Spring Boot 4.1.1 · Spring Cloud 2025.1.3 · Java 25 · Eureka · Spring Cloud 
 
 
 ## Pruebas (Puerto 8070)
-```
+
 GET http://localhost:8070/api/v1/pagos/pedido/1
 GET http://localhost:8070/api/v1/pagos/cliente/100
 GET http://localhost:8070/api/v1/pedidos/1
@@ -35,4 +35,7 @@ GET http://localhost:8070/api/v1/pedidos/verificar-y-completar/1
 GET http://localhost:8070/api/v1/pedidos/verificar-y-completar/2
 GET http://localhost:8070/api/v1/pedidos/consolidado-cliente/100
 GET http://localhost:8070/api/v1/pedidos/consolidado-cliente/300
-```
+
+## Paticipacion de Alumnos
+Jose Yataco
+Joselin Carhuapoma 
